@@ -3,7 +3,12 @@
     "name": "Save the Penguin",
     "description": "Save the Penguin from the evil polar bears(human)!",
     "action": {
-      "default_icon": "penguin.png"
+      "default_icon": {
+        "16": "penguin.png",
+        "32": "penguin.png",
+        "48": "penguin.png",
+        "128": "penguin.png"
+      }     
     },
     "version": "1.0",
     "permissions": ["activeTab"],

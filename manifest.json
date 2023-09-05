@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Save the Penguin",
+    "description": "Save the Penguin from the evil polar bears(human)!",
+    "action": {
+      "default_icon": "penguin.png"
+    },
+    "version": "1.0",
+    "permissions": ["activeTab"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  

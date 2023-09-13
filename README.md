@@ -1,2 +1,2 @@
 # Smart Chrome Extension
- Easily get Eli5 just by highlighting the text you want to learn about
+A pop-up explanation 'as if you were five' for any highlighted term, facilitating a smoother reading experience

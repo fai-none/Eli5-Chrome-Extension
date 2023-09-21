@@ -6,6 +6,6 @@ How to manually install a chrome extension: https://bashvlas.com/blog/install-ch
 
 
 
-**** Replace the exisitng key in .env file with your own key ****
+**** Replace the existing key in .env file with your own key ****
 
 How to get an OPENAI API key: https://www.youtube.com/watch?v=Ay0u4O6PoBE
